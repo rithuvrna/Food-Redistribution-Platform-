@@ -13,7 +13,7 @@
 - Member 2: Aleena Sebastien - College Of Engineering Munnar
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://drive.google.com/file/d/1EHFYPkbgnOardBz1UrCj1Nh0MW0td0z2/view?usp=drivesdk
 
 ### Project Description
 This Food Redistribution Platform connects surplus food from restaurants to NGOs, reducing waste and supporting Zero Hunger.
@@ -67,10 +67,21 @@ NPM – Package management
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Project Overview
+
+Food for Everyone is a surplus food redistribution platform that connects restaurants with NGOs to reduce food waste and fight hunger. It enables restaurants to list excess food and allows NGOs to claim and deliver it to people in need.
+
+- Feature 2: Problem & Solution Description
+
+The project addresses the issue of food wastage in restaurants while many communities face hunger. By providing a simple digital system for listing, claiming, and tracking food donations, the platform ensures efficient and transparent redistribution.
+
+- Feature 3: Functional Description
+
+The platform allows restaurants to enter food details such as type, quantity, and pickup location. NGOs can browse available listings, claim food, and update the status from Available to Claimed to Delivered, ensuring real-time tracking.
+
+- Feature 4: Impact & Social Value
+
+This system promotes sustainability by reducing food waste and supporting the UN Sustainable Development Goal 2: Zero Hunger. It encourages collaboration between food providers and NGOs to create a positive social impact.
 
 ---
 
@@ -80,12 +91,12 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation commands -npm install express cors]
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+[Run commands - npm start]
 ```
 
 ### For Hardware:
@@ -385,7 +396,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/file/d/1EHFYPkbgnOardBz1UrCj1Nh0MW0td0z2/view?usp=drivesdk
 
 *Explain what the video demonstrates - key features, user flow, technical highlights*
 
