@@ -2,27 +2,29 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Food Redistribution Platform 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Hacknova
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Rithuvarna T.P. - College Of Engineering Munnar
+- Member 2: Aleena Sebastien - College Of Engineering Munnar
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+This Food Redistribution Platform connects surplus food from restaurants to NGOs, reducing waste and supporting Zero Hunger.
 
 ### The Problem statement
-[What problem are you solving?]
+Hotels throw food away while people go hungry.
 
 ### The Solution
-[How are you solving it?]
+Restaurants upload excess food
+NGOs nearby get notification
+Real-time pickup tracking.
 
 ---
 
@@ -31,15 +33,34 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+Frontend
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+HTML5 – Structure of the website
+
+CSS3 – Styling and responsive UI
+
+JavaScript (Vanilla JS) – Dynamic content & API calls
+
+⚙️ Backend
+
+Node.js – Runtime environment
+
+Express.js – Backend framework for APIs
+
+🗄️ Database
+
+Temporary In-Memory Storage (Array) – For prototype/demo
+(Can be upgraded to MongoDB for permanent storage)
+
+🌐 APIs & Tools
+
+REST API (CRUD operations) – Add, view, claim, deliver, delete food
+
+CORS Middleware – Handle frontend-backend communication
+
+VS Code – Development environment
+
+NPM – Package management
 
 ---
 
@@ -83,13 +104,16 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 090500" src="https://github.com/user-attachments/assets/a270079f-81a4-4b21-b16d-b1a3e82de6ab" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 090520" src="https://github.com/user-attachments/assets/ed1312fc-8eaa-4af8-bca0-236b5a313481" />
+
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2026-02-21 090538" src="https://github.com/user-attachments/assets/c39ee75d-e84b-4054-9173-9e8726f477c0" />
+
 *Add caption explaining what this shows*
 
 #### Diagrams
